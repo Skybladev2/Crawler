@@ -1,0 +1,12 @@
+Library/
+Crawler_Data/
+*.zip
+HEAD
+*.sln
+config
+description
+*.csproj
+obj/
+Temp/
+Builds/
+/*.suo
